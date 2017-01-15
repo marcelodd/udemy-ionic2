@@ -1,0 +1,15 @@
+# NodeJS (npm)
+# npm install -g cordova ionic
+
+# Atom
+    Instalar pacotes Atom
+        ionic preview
+        typescript
+        emmet
+
+# Criar um projeto
+    ionic start hello-word blank --v2 --ts
+
+    ionic serve --lab
+
+    Ctlr+p -> Ionic:Preview
